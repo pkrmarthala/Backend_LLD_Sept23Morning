@@ -11,7 +11,7 @@ public class Student {
     // static block
 
     static {
-        // static block will run time when the class loads
+        // static block will run one time when the class loads
         // You can write as many static blocks as you want
         // It will be executed one after another
         // write the logic
