@@ -77,6 +77,7 @@ public class Student {
 
     static int getNoOfStudents(Student st){
 //        You can't directly access non-static members from the static functions
+//        Reason being this function will not understand which object's variable to use / update.
 //        if(name == "Mohit"){
 //
 //        }
